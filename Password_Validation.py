@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 14 2020
 
-@author: nikit
-"""
 def passval(naresh):#password validation function
     k=0#condition count variable
     a=0#lowercase count variable
